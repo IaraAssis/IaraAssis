@@ -5,9 +5,7 @@
 
 - 🔭 Imigrante do Serviço Social para tecnologia
 - 🌱 Estudando Dev FullStack 4/5
-<div align="center">
-  <a href="https://github.com/IaraAssis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaraAssis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+
   
  
   <img align="center" alt="Iara-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
