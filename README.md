@@ -4,7 +4,6 @@
 
 
 - 🔭 Imigrante do Serviço Social para tecnologia
-- 🌱 Estudando Gestão de Tecnologia da Informação 2/Sem
 - 🌱 Estudando Dev FullStack 4/5
 <div align="center">
   <a href="https://github.com/IaraAssis">
