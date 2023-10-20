@@ -1,4 +1,5 @@
-![flower-violeta](https://github.com/IaraAssis/IaraAssis/assets/120103556/4bca05df-e2ce-4232-8c95-95951c65fa8d)
+![linda-borboleta](https://github.com/IaraAssis/IaraAssis/assets/120103556/214b0dbe-17ab-49d3-acf4-4bd0a9e66317)
+
 <h1 style="text-color: red">💕 Sejam bem vindos ao meu cantinho!! 💕</h1>
 <br>
 <br>
